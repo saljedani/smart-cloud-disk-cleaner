@@ -1,0 +1,3 @@
+AWS_ACCESS_KEY = "YOUR_KEY"
+AWS_SECRET_KEY = "YOUR_SECRET"
+BUCKET_NAME = "your-bucket-name"
