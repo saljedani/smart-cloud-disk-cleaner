@@ -1,6 +1,6 @@
 # CloudClean Pro
 
-CloudClean Pro is a desktop application built with Python to help users organize files, remove clutter, and save storage space.
+CloudClean Pro is a desktop application built with Python,Tkinter to help users organize files, remove clutter, and save storage space.
 
 ## Features
 - Scan selected folders
