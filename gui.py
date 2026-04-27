@@ -9,7 +9,7 @@ from cloud_manager import CloudManager
 class SmartDiskCleanerGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Smart Disk Cleaner - Made by Sultan Aljidani")
+        self.root.title("Smart Disk Cleaner - Made by Sultan Aljedani")
         self.root.geometry("1150x720")
         self.root.configure(bg="#f8fafc")
 
